@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { runAgent } from "./agent.js"; // IMPORTANT! Keep .js because compiled output is JS
+import { runAgent } from "./agent.js"; 
 
 const app = express();
 
