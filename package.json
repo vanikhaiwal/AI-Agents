@@ -1,0 +1,25 @@
+{
+  "name": "1-agent",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vanikhaiwal/AI-Agents#readme",
+  "bugs": {
+    "url": "https://github.com/vanikhaiwal/AI-Agents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanikhaiwal/AI-Agents.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "^5.5.9",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
