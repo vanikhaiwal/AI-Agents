@@ -43,13 +43,13 @@ function App() {
         style={{
           marginTop: 30,
           padding: '10px 20px',
-          fontSize: '16px',
+          fontSize: '19px',
           backgroundColor: 'skyblue'
         }}>
         ADD
       </button>
 
-      <p style={{ marginTop: 30, fontSize: '28px' }}>Result: {response}</p>
+      <p style={{ marginTop: 35, fontSize: '28px' }}>Result: {response}</p>
     </div>
   );
 }
